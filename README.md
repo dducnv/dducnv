@@ -1,6 +1,4 @@
 
-
-
 <h1 align="center">
   <p><img align="center" src="https://www.dducnv.dev/_next/image?url=%2Fworking.png&w=1200&q=75" alt="css3" width="150" height="150" alt="dducnv" /> </p>
   Hi 👋, I'm Duc</h1>
@@ -15,10 +13,6 @@
 - 📝 I regularly write articles on [https://www.dducnv.dev/](https://www.dducnv.dev/)
 
 - 📫 How to reach me **contact.ducnv@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
