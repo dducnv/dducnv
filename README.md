@@ -1,6 +1,6 @@
 
 
-<p><img align="center" src="https://www.dducnv.dev/_next/image?url=%2Fworking.png&w=1200&q=75" alt="css3" width="100" height="100"/> </p>
+<p><img align="center" src="https://www.dducnv.dev/_next/image?url=%2Fworking.png&w=1200&q=75" alt="css3" width="150" height="150" alt="dducnv" /> </p>
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">Hello, I'm from Viet Nam 🇻🇳. My dream is to be a software engineer, and I try to make that dream come true.</h3>
 
