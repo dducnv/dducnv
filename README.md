@@ -1,3 +1,4 @@
+<img align="center" src="https://www.dducnv.dev/_next/image?url=%2Fworking.png" alt="css3" width="100" height="100"/> 
 <h1 align="center">Hi 👋, I'm Duc</h1>
 <h3 align="center">Hello, I'm from Viet Nam 🇻🇳. My dream is to be a software engineer, and I try to make that dream come true.</h3>
 
