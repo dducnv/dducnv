@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <p><img align="center" src="https://www.dducnv.dev/_next/image?url=%2Fworking.png&w=1200&q=75" alt="css3" width="150" height="150" alt="dducnv" /> </p>
-  Hi 👋, I'm Duc</h1>
+  Hi 👋, I'm Nguyen Van Duc</h1>
 <h3 align="center">Hello, I'm from Viet Nam 🇻🇳. My dream is to be a software engineer, and I try to make that dream come true.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dducnv&label=Profile%20views&color=0e75b6&style=flat" alt="dducnv" /> </p>
