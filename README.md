@@ -5,6 +5,7 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dducnv&label=Profile%20views&color=0e75b6&style=flat" alt="dducnv" /> </p>  
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="230"> </img>
+
 - 🌱 I’m currently learning **Dart, Flutter** 
   
 - 👨‍💻 All of my projects are available at [https://dducnv.dev](https://dducnv.dev)  
@@ -14,8 +15,6 @@
 - 📫 How to reach me **contact.ducnv@gmail.com**  
 
 
- <br/>
-  
  ## My Github Stats
   <table align="center">
         <tbody><tr>
