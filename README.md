@@ -4,17 +4,19 @@
 <h3 align="center">A passionate Mobile application developer from Vietnam</h3>  
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dducnv&label=Profile%20views&color=0e75b6&style=flat" alt="dducnv" /> </p>  
-
-- 🌱 I’m currently learning **Dart, Flutter**  
+<img align="right" src="https://i.imgur.com/FjlkaZK.png" height="230"> </img>
+- 🌱 I’m currently learning **Dart, Flutter** 
   
 - 👨‍💻 All of my projects are available at [https://dducnv.dev](https://dducnv.dev)  
   
 - 📝 I regularly write articles on [https://dducnv.dev/blog](https://dducnv.dev/blog)  
   
 - 📫 How to reach me **contact.ducnv@gmail.com**  
- 
+
+
+ <br/>
   
-  <h2 dir="auto"> My Github Stats</h2>
+ ## My Github Stats
   <table align="center">
         <tbody><tr>
             <td>
