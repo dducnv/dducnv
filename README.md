@@ -1,7 +1,7 @@
 <h1 align="center">
   <p><img align="center" src="https://www.dducnv.dev/_next/image?url=%2Fworking.png&w=1200&q=75" alt="css3" width="150" height="150" alt="dducnv" /> </p>
   Hi 👋, I'm  Duc</h1>
-<h3 align="center">A passionate Mobile application developer from Vietnam</h3>  
+<h3 align="center">A passionate mobile application developer from Vietnam</h3>  
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dducnv&label=Profile%20views&color=0e75b6&style=flat" alt="dducnv" /> </p>  
 
