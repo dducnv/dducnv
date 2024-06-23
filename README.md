@@ -55,6 +55,15 @@
 </tbody></table>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript        5 hrs           ████████████░░░░░░░░░░░░░   48.53 %
+Dart              3 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   31.38 %
+YAML              35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Groovy            24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Java Properties   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+```
+
 <!--END_SECTION:waka-->
 
   
