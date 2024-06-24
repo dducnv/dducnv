@@ -8,19 +8,12 @@
 </p>  
 
 <p align="center">
-   <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" title="Dart"/> </a>
-   <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/> </a> 
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySql" width="43" height="43"/> </a>
-     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="MySql" width="43" height="43"/> </a>
-   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" width="43" height="43"/> </a>
-   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="43" height="43"/>&nbsp;</a>
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="43" height="43"/>&nbsp;&nbsp;</a>
-    <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" width="43" height="43"/>&nbsp;&nbsp;</a>
+ <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,html,css,js,ts,nextjs,react,figma,git,postgres,postman,tailwind,vscode,vercel,regex,powershell,planetscale,mysql,sqlite,md,firebase"/>
 </p>
 
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="230"> </img>
 
-- 🌱 I’m currently learning **Dart, Flutter** 
+- 🌱 I’m currently learning **Dart, Flutter, Kotlin, Jetpack** 
   
 - 👨‍💻 All of my projects are available at [https://dducnv.dev](https://dducnv.dev)  
   
