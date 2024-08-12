@@ -8,7 +8,7 @@
 </p>  
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,html,css,js,ts,nextjs,react,figma,git,postman,tailwind,vscode,vercel,powershell,mysql,sqlite,md,firebase"/>
+ <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,html,css,js,ts,nextjs,react,figma,git,postman,tailwind,vscode,vercel,powershell,mysql,sqlite,md,firebase,notion"/>
 </p>
 
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="230"> </img>
