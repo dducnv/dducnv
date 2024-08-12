@@ -46,6 +46,9 @@
         </td>
     </tr>
 </tbody></table>
+  <table align="center">
+        <tbody><tr>
+            <td>
 
 <!--START_SECTION:waka-->
 
@@ -58,5 +61,10 @@ XML          12 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+            </td>
+        </tr>
+   </tbody>
+</table>
+
 
   
