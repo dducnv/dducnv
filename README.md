@@ -45,10 +45,8 @@
            style="max-width: 100%;"/>
         </td>
     </tr>
-</tbody></table>
-  <table align="center">
-        <tbody
-
+</tbody>
+</table>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -61,9 +59,7 @@ XML          12 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-      
-   </tbody>
-</table>
+
 
 
   
