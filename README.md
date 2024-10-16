@@ -50,11 +50,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              18 hrs 1 min    ███████████████████▓░░░░░   79.27 %
-RobotFramework    2 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-Groovy            55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Java Properties   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-JSON              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Dart              24 hrs 38 mins  ████████████████████▓░░░░   82.13 %
+RobotFramework    2 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Groovy            55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Java Properties   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+YAML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
