@@ -50,11 +50,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             31 hrs 59 mins  ██████████████████▓░░░░░░   75.00 %
-RobotFramework   7 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-TypeScript       2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Image (svg)      25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-YAML             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Dart             25 hrs 47 mins  █████████████████▓░░░░░░░   70.90 %
+RobotFramework   7 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   19.80 %
+TypeScript       2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Image (svg)      25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+YAML             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
