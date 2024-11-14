@@ -24,29 +24,6 @@
 <br/>
 <br/>
 
- ## My Github Stats
-  <table align="center">
-        <tbody><tr>
-            <td>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dducnv&amp;theme=black-ice&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=0D1117" alt="dducnv"  style="max-width: 100%;"/>
-            </td>
-        </tr>
-   </tbody>
-</table>
-   <br/>
-<table width="100%"  align="center">
-    <tbody><tr>
-        <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=dducnv&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="dducnv" 
-          style="max-width: 100%;"/>
-        </td>
-        <td>
-           <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dducnv&amp;langs_count=8.0&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="dducnv" 
-           style="max-width: 100%;"/>
-        </td>
-    </tr>
-</tbody>
-</table>
 <!--START_SECTION:waka-->
 
 ```txt
