@@ -13,14 +13,6 @@
 
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="230"> </img>
 
-- 🌱 I’m currently learning **Dart, Flutter, Kotlin, Jetpack** 
-  
-- 👨‍💻 All of my projects are available at [https://dducnv.dev](https://dducnv.dev)  
-  
-- 📝 I regularly write articles on [https://dducnv.dev/blog](https://dducnv.dev/blog)  
-  
-- 📫 How to reach me **contact.ducnv@gmail.com**  
-
 <br/>
 <br/>
 <br/>
