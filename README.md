@@ -24,7 +24,8 @@
 <br/>
 <br/>
 
-<!--START_SECTION:waka-->
+<div style="width: 100vw; overflow-x: auto;">
+  <!--START_SECTION:waka-->
 
 ```txt
 Dart             31 hrs 12 mins  █████████████████████░░░░   84.41 %
@@ -35,6 +36,7 @@ YAML             4 mins          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+</div>
 
 
 
