@@ -10,11 +10,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Dart              15 hrs 2 mins   ███████████░░░░░░░░░░░░░░   44.02 %
-TypeScript        14 hrs 47 mins  ██████████▓░░░░░░░░░░░░░░   43.30 %
-Bash              1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Java Properties   1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Groovy            1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Dart              23 hrs 55 mins  ████████████████▒░░░░░░░░   64.75 %
+TypeScript        7 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+Bash              1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Java Properties   1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Groovy            55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
