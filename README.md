@@ -6,7 +6,7 @@
 <a href="https://wakatime.com/@4d2a2cd9-1bcb-4dd1-84a4-dce128a35137"><img src="https://wakatime.com/badge/user/4d2a2cd9-1bcb-4dd1-84a4-dce128a35137.svg" alt="Total time coded since Jun 21 2024" /></a>
 </p>  
 
-<div style="width: 100vw; overflow-x: auto; flex:center; text-align:center">
+<div align="center">
   <!--START_SECTION:waka-->
 
 ```txt
